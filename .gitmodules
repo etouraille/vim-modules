@@ -7,3 +7,6 @@
 [submodule "vim-wombat256mod"]
 	path = vim-wombat256mod
 	url = git@github.com:michalbachowski/vim-wombat256mod.git
+[submodule "Wombat"]
+	path = Wombat
+	url = git@github.com:vim-scripts/Wombat.git
