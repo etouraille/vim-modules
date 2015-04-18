@@ -10,3 +10,21 @@
 [submodule "Wombat"]
 	path = Wombat
 	url = git@github.com:vim-scripts/Wombat.git
+[submodule "vim-javascript"]
+	path = vim-javascript
+	url = https://github.com/pangloss/vim-javascript.git
+[submodule "vimproc.vim"]
+	path = vimproc.vim
+	url = https://github.com/Shougo/vimproc.vim.git
+[submodule "unite.vim"]
+	path = unite.vim
+	url = https://github.com/Shougo/unite.vim.git
+[submodule "phpcomplete-extended"]
+	path = phpcomplete-extended
+	url = https://github.com/m2mdas/phpcomplete-extended.git
+[submodule "php.vim"]
+	path = php.vim
+	url = git@github.com:StanAngeloff/php.vim.git
+[submodule "vim-php-namespace"]
+	path = vim-php-namespace
+	url = git://github.com/arnaud-lb/vim-php-namespace.git
