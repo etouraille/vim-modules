@@ -28,3 +28,6 @@
 [submodule "vim-php-namespace"]
 	path = vim-php-namespace
 	url = git://github.com/arnaud-lb/vim-php-namespace.git
+[submodule "jshint2.vim"]
+	path = jshint2.vim
+	url = git@github.com:Shutnik/jshint2.vim.git
